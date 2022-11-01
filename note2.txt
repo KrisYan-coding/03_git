@@ -12,3 +12,5 @@ ls
 git config --list
 git config --global user.name "KrisYan"
 git config --global user.email "krisyan3318@gmail.com"
+
+123456
