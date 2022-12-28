@@ -1,0 +1,6 @@
+JSON:
+[{},{},{}]
+{name: []}
+
+產生 HTML標籤，用 JSON包裝 -> 後端
+讀 JSON檔，將 HTML tags顯示在網頁上 -> 前端
